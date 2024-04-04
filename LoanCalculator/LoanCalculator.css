@@ -1,0 +1,119 @@
+
+.header{
+    margin: auto; 
+    max-width: 400px;
+    gap: 30px;
+   }  
+   
+   .input-label{ 
+       margin-bottom: 25px; 
+       gap: 20px; 
+   } 
+   
+   .input-label label {
+       display: block;
+       margin-bottom: 5px;
+   } 
+   
+   .input-label input { 
+       width: 100%; 
+       box-sizing: border-box;
+       border: 1px solid #f4f1f1; 
+       border-radius: 4px; 
+       padding: 1px;
+   
+   }
+   
+   
+   
+   .result{
+        
+        display: block;
+        padding: 10px; 
+        color: rgb(21, 1, 1); 
+        border: 2px solid;
+        margin-top: 15px;
+        padding: 10px;
+        text-align: justify;
+        text-decoration: rgb(11, 206, 206); 
+        font-style: italic;
+        
+   
+   } 
+   
+   h1{
+       text-align: center; 
+       font-family: 'Courier New', Courier, monospace;
+       color: rgb(214, 186, 28); 
+       background-color: aliceblue; 
+       
+       
+   } 
+   
+   body{ 
+       background-color :white;
+   
+   } 
+   
+   
+   .button-container{ 
+   
+       gap: 40px; 
+       margin: auto; 
+       height: auto; 
+       text-align: center;
+   } 
+   
+   .chart-container { 
+       margin-top: 20px;
+       text-align: center;
+   }
+   
+   .input-label1{
+       display: flex;
+       flex-direction: column;
+       
+   } 
+   .label {
+       margin-bottom: 10px; /* Optional: Adjust the margin as needed */
+     }
+   .box{
+       width: 400px;
+       margin-bottom: 30px;
+   }
+   .radio-input{
+       margin-left: 20px;
+       margin-right: 20px;
+   } 
+   .btn-outline-dark{ 
+       margin-left: 35px;
+       margin-right: 35px;
+   }  
+   
+   /* LoanCalculator.css */
+   .center-container {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center; 
+       gap: 10px ;
+       /* height: 100vh; Optional: Adjust as needed */
+     }
+     
+     .center-button {
+       margin-top: 20px; /* Optional: Adjust as needed */
+     }
+     
+     /* Add these styles to LoanCalculator.css */
+   
+     .inline-container {
+       
+       margin-right: 10px; /* Optional: Adjust the margin as needed */
+     }
+     
+     
+     .box {
+       margin-right: 5px; /* Optional: Adjust the margin as needed */
+     } 
+   
+    

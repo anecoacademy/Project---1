@@ -1,0 +1,24 @@
+/* HomePage.css */
+.center-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    margin-bottom: 20px; 
+    white-space: pre-line;
+  }
+  
+  .center-button {
+    margin-bottom: 40px;
+  }
+  
+  .additional-info {
+    margin-bottom: 40px;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    color: #e20000;
+  }
+  
